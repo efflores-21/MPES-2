@@ -1,0 +1,15 @@
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\bin\Debug\net7.0\Sesion#3.exe
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\bin\Debug\net7.0\Sesion#3.deps.json
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\bin\Debug\net7.0\Sesion#3.runtimeconfig.json
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\bin\Debug\net7.0\Sesion#3.dll
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\bin\Debug\net7.0\Sesion#3.pdb
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\Sesion#3.csproj.AssemblyReference.cache
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\Sesion#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\Sesion#3.AssemblyInfoInputs.cache
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\Sesion#3.AssemblyInfo.cs
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\Sesion#3.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\Sesion#3.dll
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\refint\Sesion#3.dll
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\Sesion#3.pdb
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\Sesion#3.genruntimeconfig.cache
+C:\Users\labc202\Desktop\MyPG#3\Sesion#3\Sesion#3\obj\Debug\net7.0\ref\Sesion#3.dll
